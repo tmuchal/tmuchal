@@ -9,20 +9,11 @@
 
 <br/>
 
-<!-- Pixel IT Profile Card (다크/라이트 모드 대응) -->
+<!-- Pixel Cat Room (Dubai) -->
 <picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tmuchal/Pixel-ITProfile/main/examples/tmuchal-cyberpunk.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tmuchal/Pixel-ITProfile/main/examples/tmuchal-matrix.svg">
-  <img alt="UCHAL IT Profile" src="https://raw.githubusercontent.com/tmuchal/Pixel-ITProfile/main/examples/tmuchal-cyberpunk.svg" width="800">
-</picture>
-
-<br/>
-
-<!-- Pixel Cat Room -->
-<picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tmuchal/Pixel-ITProfile/main/examples/tmuchal-cat-cyberpunk.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tmuchal/Pixel-ITProfile/main/examples/tmuchal-cat-matrix.svg">
-  <img alt="Pixel Cat Room" src="https://raw.githubusercontent.com/tmuchal/Pixel-ITProfile/main/examples/tmuchal-cat-cyberpunk.svg" width="800">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tmuchal/Pixel-ITProfile/main/examples/tmuchal-dubai.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tmuchal/Pixel-ITProfile/main/examples/tmuchal-dubai.svg">
+  <img alt="Pixel Cat Room" src="https://raw.githubusercontent.com/tmuchal/Pixel-ITProfile/main/examples/tmuchal-dubai.svg" width="800">
 </picture>
 
 </div>
